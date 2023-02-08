@@ -1,0 +1,19 @@
+* {
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-style: italic;
+}
+#headshot {
+    width: 75%;
+}
+p {
+    line-height: 130%;
+}
+.row {
+    display: flex;
+  }
+.column {
+    flex: 50%;
+  }
